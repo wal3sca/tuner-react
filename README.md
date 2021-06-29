@@ -31,6 +31,7 @@ Your app should also include the following routes:
 ### `/songs`
 
 - Displays a list of `song.title`, `song.is_favorite`, `song.artist` and `song.time` that are clickable to take the user to **`/songs/:id`** IMPORTANT - be sure it goes to the song's `id` **NOT** the array position. Since we are now using a database you should use the `id`.
+- Has a button that takes users to the `/songs/new` view
 
 <details><summary>Inspiration</summary>
 
