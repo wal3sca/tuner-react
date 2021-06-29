@@ -93,8 +93,9 @@ Your page should
 </details>
 
 - Style the app
+  - Look into the [holy grail layout](https://philipwalton.github.io/solved-by-flexbox/demos/holy-grail/)
 - Use react-bootstrap
 - Use react-transition-group to transition between pages [Demo](https://reactrouter.com/web/example/animated-transitions)
-- write your own tests for the edit route
+- write your own tests
 - add a 404 page
 - add functionality that when a user presses the delete button a confirmation appears first
