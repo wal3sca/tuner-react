@@ -9,7 +9,7 @@
 - Fork this repo
 - Clone the forked repository
 - `cd` to the directory where you cloned it
-- `npx create-react-app tuner-front-end`
+- `npx create-react-app tuner-react`
 - `npm start` to start the react app on `localhost:3000`
 
 > _Note_: Remember to `git add`, `git commit` and `git push` regularly
